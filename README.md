@@ -1,2 +1,3 @@
 # first-github
-author - ayush gupta
+<br>
+Author - ayush (Alien algorithm)
